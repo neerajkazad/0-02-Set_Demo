@@ -2,6 +2,10 @@ package com.yin.hashset;
 
 import java.util.HashSet;
 
+/**
+ * This is the Sample HashSet program.
+ * 
+ */
 public class HashSetDemo {
 	public static void main(String[] args) {
 		
